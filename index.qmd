@@ -1,0 +1,53 @@
+---
+title: "Welcome!"
+---
+
+## Amphibian Ecology & Conservation
+
+Welcome to my (Ryan K. Murphy) research website!
+
+I'm a graduate researcher interested in amphibian ecology, behavior, chemical ecology, and conservation biology.
+
+My research focuses on using interdisciplinary integrative approaches to understand how environmental change and species interactions (both natural and anthropogenic) influence amphibians and their populations.
+
+## Current Research
+
+### Mazama Newt Conservation
+
+I'm currently studying the ecology and conservation of Mazama newts (*Taricha granulosa mazamae*) in Crater Lake, Oregon.
+
+My research interests include:
+
+- Predator-prey interactions
+
+- Population ecology and demographics
+
+- Conservation genetics
+
+- Reproductive biology and life history
+
+- Chemical ecology
+
+## Past Research
+
+### Organismal Responses of Pacific Newts (*Taricha* spp.) to Natural and Anthropogenic Threats
+
+This research involved using chemical cues to determine how newts responded (both behaviorally and physiologically) to different threats, including:
+
+- Native snake (*Thamnophis* spp.)
+
+- Native fish (*Oncorhynchus* spp.)
+
+- Invasive fish (*Gambusia* spp.)
+
+- Invasive crayfish (*Pacifasticus* spp.)
+
+- Fire (ash)
+
+- Agricultural runoff (Ammonium Nitrate)
+
+- Pesticide (Glyphosate)
+
+## Explore
+
+This website features my research projects, publications, scientific resources, and code (R/Rstudio).
