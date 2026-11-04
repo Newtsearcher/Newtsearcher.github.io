@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Welcome to my (Ryan K. Murphy) research website!\nI’m a graduate researcher interested in amphibian ecology, behavior, chemical ecology, and conservation biology.\nMy research focuses on using interdisciplinary integrative approaches to understand how environmental change and species interactions (both natural and anthropogenic) influence amphibians and their populations."
+  },
+  {
+    "objectID": "index.html#amphibian-ecology-conservation",
+    "href": "index.html#amphibian-ecology-conservation",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Welcome to my (Ryan K. Murphy) research website!\nI’m a graduate researcher interested in amphibian ecology, behavior, chemical ecology, and conservation biology.\nMy research focuses on using interdisciplinary integrative approaches to understand how environmental change and species interactions (both natural and anthropogenic) influence amphibians and their populations."
+  },
+  {
+    "objectID": "index.html#current-research",
+    "href": "index.html#current-research",
+    "title": "Welcome!",
+    "section": "Current Research",
+    "text": "Current Research\n\nMazama Newt Conservation\nI’m currently studying the ecology and conservation of Mazama newts (Taricha granulosa mazamae) in Crater Lake, Oregon.\nMy research interests include:\n\nPredator-prey interactions\nPopulation ecology and demographics\nConservation genetics\nReproductive biology and life history\nChemical ecology"
+  },
+  {
+    "objectID": "index.html#past-research",
+    "href": "index.html#past-research",
+    "title": "Welcome!",
+    "section": "Past Research",
+    "text": "Past Research\n\nOrganismal Responses of Pacific Newts (Taricha spp.) to Natural and Anthropogenic Threats\nThis research involved using chemical cues to determine how newts responded (both behaviorally and physiologically) to different threats, including:\n\nNative snake (Thamnophis spp.)\nNative fish (Oncorhynchus spp.)\nInvasive fish (Gambusia spp.)\nInvasive crayfish (Pacifasticus spp.)\nFire (ash)\nAgricultural runoff (Ammonium Nitrate)\nPesticide (Glyphosate)"
+  },
+  {
+    "objectID": "index.html#explore",
+    "href": "index.html#explore",
+    "title": "Welcome!",
+    "section": "Explore",
+    "text": "Explore\nThis website features my research projects, publications, scientific resources, and code (R/Rstudio)."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
