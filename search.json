@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "literature/index.html",
+    "href": "literature/index.html",
+    "title": "Literature Library",
+    "section": "",
+    "text": "Paper\nAuthors\nYear\nTopics\nSummary\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome!",
@@ -40,5 +47,68 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "literature/example-paper.html",
+    "href": "literature/example-paper.html",
+    "title": "Example Paper Title",
+    "section": "",
+    "text": "Smith, A. et al. (2024). Example Paper Title.\nDOI: Add link here"
+  },
+  {
+    "objectID": "literature/example-paper.html#citation",
+    "href": "literature/example-paper.html#citation",
+    "title": "Example Paper Title",
+    "section": "",
+    "text": "Smith, A. et al. (2024). Example Paper Title.\nDOI: Add link here"
+  },
+  {
+    "objectID": "literature/example-paper.html#research-question",
+    "href": "literature/example-paper.html#research-question",
+    "title": "Example Paper Title",
+    "section": "Research Question",
+    "text": "Research Question\nWhat question were the researchers investigating?"
+  },
+  {
+    "objectID": "literature/example-paper.html#study-system",
+    "href": "literature/example-paper.html#study-system",
+    "title": "Example Paper Title",
+    "section": "Study System",
+    "text": "Study System\n\nSpecies:\nLocation:\nStudy type:"
+  },
+  {
+    "objectID": "literature/example-paper.html#methods",
+    "href": "literature/example-paper.html#methods",
+    "title": "Example Paper Title",
+    "section": "Methods",
+    "text": "Methods\nSummarize the methods used in the study."
+  },
+  {
+    "objectID": "literature/example-paper.html#key-findings",
+    "href": "literature/example-paper.html#key-findings",
+    "title": "Example Paper Title",
+    "section": "Key Findings",
+    "text": "Key Findings\nSummarize the major findings in your own words."
+  },
+  {
+    "objectID": "literature/example-paper.html#limitations",
+    "href": "literature/example-paper.html#limitations",
+    "title": "Example Paper Title",
+    "section": "Limitations",
+    "text": "Limitations\nWhat limitations did the authors identify? What other limitations did you notice?"
+  },
+  {
+    "objectID": "literature/example-paper.html#relevance-to-my-research",
+    "href": "literature/example-paper.html#relevance-to-my-research",
+    "title": "Example Paper Title",
+    "section": "Relevance to My Research",
+    "text": "Relevance to My Research\nHow does this study relate to your research interests?"
+  },
+  {
+    "objectID": "literature/example-paper.html#personal-notes",
+    "href": "literature/example-paper.html#personal-notes",
+    "title": "Example Paper Title",
+    "section": "Personal Notes",
+    "text": "Personal Notes\nAdd any additional thoughts, questions, or ideas."
   }
 ]
