@@ -1,0 +1,47 @@
+---
+title: "Example Paper Title"
+author: "Smith et al."
+date: "2024-01-01"
+date-format: "YYYY"
+categories:
+  - Conservation
+  - Population Ecology
+  - Amphibians
+description: "An example of an annotated research paper."
+---
+
+## Citation
+
+Smith, A. et al. (2024). Example Paper Title.
+
+**DOI:** Add link here
+
+## Research Question
+
+What question were the researchers investigating?
+
+## Study System
+
+- **Species:**
+- **Location:**
+- **Study type:**
+
+## Methods
+
+Summarize the methods used in the study.
+
+## Key Findings
+
+Summarize the major findings in your own words.
+
+## Limitations
+
+What limitations did the authors identify? What other limitations did you notice?
+
+## Relevance to My Research
+
+How does this study relate to your research interests?
+
+## Personal Notes
+
+Add any additional thoughts, questions, or ideas.

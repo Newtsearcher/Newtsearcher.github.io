@@ -1,0 +1,23 @@
+---
+title: "Literature Library"
+subtitle: "An annotated collection of scientific literature"
+listing:
+  contents: "papers/**/*.qmd"
+  type: table
+  sort: "date desc"
+  sort-ui: true
+  filter-ui: true
+  fields:
+    - title
+    - author
+    - date
+    - categories
+    - description
+  field-display-names:
+    title: Paper
+    author: Authors
+    date: Year
+    categories: Topics
+    description: Summary
+  page-size: 10
+---

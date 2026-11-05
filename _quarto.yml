@@ -10,7 +10,9 @@ website:
         text: Home
       - href: about.qmd
         text: About
-
+      - href: literature/index.qmd
+        text: Literature Library
+        
 format:
   html:
     theme: cosmo
